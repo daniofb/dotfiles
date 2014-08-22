@@ -1,0 +1,27 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"AVR",
+		"Bison",
+		"BracketHighlighter",
+		"C++ Starting Kit",
+		"Color Scheme - Vintage Terminal",
+		"Dictionaries",
+		"DictionaryAutoComplete",
+		"DocBlockr",
+		"FileHeader",
+		"Git",
+		"GitGutter",
+		"hextoASCII",
+		"MakeCommands",
+		"Open-Include",
+		"SideBarEnhancements",
+		"SideBarFolders",
+		"SideBarGit",
+		"SublimeLinter",
+		"SublimeLinter-cppcheck",
+		"Terminal",
+		"TrailingSpaces"
+	]
+}

@@ -1,2 +1,6 @@
 *.py
 *.pyc
+Cache
+Index
+#*
+!*.sublime-settings
