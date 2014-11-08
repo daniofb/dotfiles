@@ -1,0 +1,21 @@
+alias ls='ls --sort=extension --color=auto -CF'
+
+alias grep='grep -in --color'
+
+alias du='du -h'
+alias df='df -h'
+alias free='free -h'
+alias sudo='nocorrect sudo'
+
+alias cd.='cd ..'
+alias cd..='cd ..'
+
+alias pacman='pacman --color=always'
+alias minicom='minicom --color=on'
+
+# rsync
+alias rcopy='rsync -avzh -P'
+alias rmove='rsync -avzh -P --remove-source-files'
+
+alias sudo='nocorrect sudo'
+alias mkdir='nocorrect mkdir'
