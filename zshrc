@@ -35,7 +35,6 @@ setopt autolist
 setopt clobber              # > and >> work as expected
 setopt multios              # Enable piping to multiple outputs
 setopt interactivecomments  # Enable comments in interactive mode
-setopt    braceccl                     # {a-z} {0-2} etc expansion
 
 # Directory Changing
 setopt autocd           # Automatically change directory

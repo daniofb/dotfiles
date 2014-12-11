@@ -17,5 +17,6 @@ alias minicom='minicom --color=on'
 alias rcopy='rsync -avzh -P'
 alias rmove='rsync -avzh -P --remove-source-files'
 
-alias sudo='nocorrect sudo'
 alias mkdir='nocorrect mkdir'
+
+alias pacu='sudo pacman -Syu'
